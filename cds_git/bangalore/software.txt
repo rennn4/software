@@ -1,0 +1,6 @@
+line 1 is not available 
+line 2 can be applied
+line 1 was unavailable
+line 2 must be used
+line 3 was added
+line 4 is used mostly
